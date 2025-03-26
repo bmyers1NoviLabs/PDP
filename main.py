@@ -6,7 +6,7 @@ directory = r'C:\Users\brand\OneDrive - Novilabs\Novi Intelligence\all_upstream_
 
 # Initialize the basin list
 basin_list = (
-    'Barnett', 'Delaware', 'DJ', 'Eagle Ford', 'Fayetteville',
+    'Barnett', 'Delaware', 'Denver-Julesburg', 'Eagle Ford', 'Fayetteville',
     'Haynesville', 'Marcellus', 'Midland', 'Other', 'Powder River',
     'San Juan', 'SCOOP STACK', 'Uinta', 'Utica', 'Williston'
 )
